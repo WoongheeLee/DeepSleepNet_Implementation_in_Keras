@@ -1,0 +1,9 @@
+data/*.edf
+data/eeg_fpz_cz
+data/eeg_pz_oz
+20_fold_data/
+*.swp
+__pycache__/
+weights/
+history/
+nohup.out
