@@ -28,3 +28,7 @@ The trained model (both featurenet and deepsleepnet) will be stored at the **./w
 ## Performance Evaluation
 
     cat performance.txt
+
+## To Do
+
+* Revise 'data preparation' to split patients. For example, in test set, patients 0 - 10, valid set patients 11 - 12, test set 13 - 14.
