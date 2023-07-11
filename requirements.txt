@@ -34,7 +34,7 @@ openssl=1.1.1b=h7b6447c_1
 protobuf>=3.15.0
 python=3.6.8=h0371630_0
 readline=7.0=h7b6447c_5
-scipy=1.2.1=py36h7c811a0_0
+scipy
 six=1.12.0=py36_0
 sqlite=3.26.0=h7b6447c_0
 tensorboard=1.12.2=py36he6710b0_0
